@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.tabs {
+  text-align: right;
+  background-color: #5a5a5a;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
