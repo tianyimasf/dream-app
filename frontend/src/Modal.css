@@ -1,0 +1,27 @@
+.modal {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  width: 40%;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: 1.5s ease-out;
+  box-shadow: -1rem 1rem 1rem rgba(0, 0, 0, 0.2);
+  filter: blur(0);
+  transform: scale(1);
+  opacity: 1;
+  visibility: visible;
+  z-index: 1000;
+}
+.modal .content {
+  padding: 1rem;
+}
+.modal .actions button {
+  border: 0;
+  background: #78f89f;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  line-height: 1;
+}
