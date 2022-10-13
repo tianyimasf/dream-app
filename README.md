@@ -2,7 +2,7 @@
 
 ### General Description
 
-Ever went to a city like San Francisco and wondered – which corner of the city has appeared in films before? Or want to go to specific real places that appeared in a movie? Or are you a die hard movie fan? Well here is the app for you! DreamMap is a map where you can make your dreams come true. It will show you all the little niches in San Francisco that have appeared in a movie before. If you pass a street and it’s recorded on DreamMap, you’ll know it! Open up the app and take a look at the movie clip, who’s been there before you, and maybe even leave your own trail! _best app for city crawlers am I right?_
+Ever went to a city like San Francisco and wondered – which corner of the city has appeared in films before? Or want to go to specific real places that appeared in a movie? Or are you a die hard movie fan? Well here is the app for you! Dream is a map where you can make your dreams come true. It will show you all the little niches in San Francisco that have appeared in a movie before. If you pass a street and it’s recorded on Dream, you’ll know it! Open up the app and take a look at the movie clip, who’s been there before you, and maybe even leave your own trail! _best app for city crawlers am I right?_
 
 ### MVP Features
 
