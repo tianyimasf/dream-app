@@ -6,21 +6,21 @@ Ever went to a city like San Francisco and wondered – which corner of the city
 
 ### MVP Features
 
--A styled map that has stars on it where the stars represents a place that is in a film and has the following info and functionalities:
---A list of film title, description, timestamp, screenshots(?), time film was made, maybe just an IMDB link, submitter name, submitted time, street view option
--Stamp Wall
---Existing nickname, time, picture, comments
---Uploading your own stamp
---Share your stamp
--A button to add a star spot in the map:
---Film title, description, timestamp, screenshots(?), time film was made, IMDB link, submitter name
--Open to suggestions
+- A styled map that has stars on it where the stars represents a place that is in a film and has the following info and functionalities:
+  - A list of film title, description, timestamp, screenshots(?), time film was made, maybe just an IMDB link, submitter name, submitted time, street view option
+- Stamp Wall
+  - Existing nickname, time, picture, comments
+  - Uploading your own stamp
+  - Share your stamp
+- A button to add a star spot in the map:
+  - Film title, description, timestamp, screenshots(?), time film was made, IMDB link, submitter name
+- _Open to suggestions_
 
 ### Future Features Plans
 
--Notification if you pass a star spot
--A landing page where you can:
--Search by cities
--Search by movie
--Shows all the places where the film has visited
--First person view option
+- Notification if you pass a star spot
+- A landing page where you can:
+- Search by cities
+- Search by movie
+- Shows all the places where the film has visited
+- First person view option
