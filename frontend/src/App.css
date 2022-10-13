@@ -12,23 +12,47 @@
   padding-right: 5px;
 }
 
-.button-submit {
-  text-align: center;
+.div-submit {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
 }
 
-.h2-submit {
+.button-submit {
+  text-align: center;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+
+.h3-submit {
   font-family: "IBM Plex Sans";
   text-align: center;
 }
 
 .form {
   display: flex;
+  flex-direction: column;
   padding-bottom: 30px;
   padding-top: 10px;
-  justify-content: center;
+  padding-left: 10px;
+  justify-content: flex-start;
 }
 
 .text-field-form {
   margin-left: 5px;
   margin-right: 5px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  display: flex;
+}
+
+.form-label {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.time-picker {
+  display: flex;
+  margin-top: 7px;
+  margin-bottom: 7px;
 }
